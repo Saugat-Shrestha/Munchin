@@ -1,6 +1,6 @@
 # munchin_app
 
-A new Flutter project.
+Complete Food delivery app with backend and recommendation system 
 
 ## Getting Started
 
